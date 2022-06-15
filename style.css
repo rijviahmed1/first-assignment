@@ -4,7 +4,7 @@ body{
     margin: 0;
     padding: 0;
 }
-section{
+.main{
     margin: 50px 150px 0px 150px;
 }
 .container{
@@ -24,7 +24,7 @@ h1{
     font-weight: 700px;
     margin-left: 5px;
 }
-.tx-clr{
+.year{
     color: cornflowerblue;
 }
 .clr-blue{
@@ -70,4 +70,38 @@ a{
     width: 65%;
     margin: 40px 0;
    justify-content: space-around; 
+}
+.main1{
+    padding: 30px 0;
+    background-color: black;
+}
+.main1 h2{
+    color: white;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+.main1 p{
+    color: white;
+    text-align: center;
+}
+.aaa{
+    margin: 70px 0 0 0;
+    width: 60%;
+}
+.aaa h5{
+    padding: 15px 30px;
+    background-color: cornflowerblue;
+    border-radius: 15px  0px 15px 0px;
+    display: inline;
+    color: white;
+    font-size: medium;
+}
+.aaa a{
+    border-radius: 0px 15px 0px 15px;
+}
+.aaa1{
+    width: 40%;
+}
+.aaa1 img{
+    width: 70%;
 }
