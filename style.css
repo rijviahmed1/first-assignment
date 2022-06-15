@@ -84,11 +84,14 @@ a{
     color: white;
     text-align: center;
 }
-.aaa{
-    margin: 70px 0 0 0;
-    width: 60%;
+.gapp{
+    padding-top: 30px;
 }
-.aaa h5{
+.aaa{ 
+    width: 50%;
+}
+
+.aaa1 h5{
     padding: 15px 30px;
     background-color: cornflowerblue;
     border-radius: 15px  0px 15px 0px;
@@ -96,12 +99,14 @@ a{
     color: white;
     font-size: medium;
 }
-.aaa a{
-    border-radius: 0px 15px 0px 15px;
+.aaa1 a{
+    margin-right: 15px;
+    border-radius: 20px 0px 20px 0px;
 }
 .aaa1{
-    width: 40%;
+    margin-top: 150px;
+    width: 50%;
 }
-.aaa1 img{
+.aaa img{
     width: 70%;
 }
